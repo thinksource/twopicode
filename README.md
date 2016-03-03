@@ -6,6 +6,6 @@
 
 3, open the command line or terminal visit the special fold of your download
 
-4, at the fold of **meteor update**
+4, at the fold of the project **meteor update**
 
 5, run **meteor**
