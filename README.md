@@ -5,3 +5,4 @@
 2, open the command line or terminal visit the special fold of your download
 3, at the fold of **meteor update**
 4, run **meteor**
+
